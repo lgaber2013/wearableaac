@@ -1,0 +1,16 @@
+C:\Users\Lauren\Documents\Visual Studio 2012\Projects\TTSTest2\TTSTest2\TTSTest2.iOS\bin\iPhone\Debug\TTSTest2iOS.exe
+C:\Users\Lauren\Documents\Visual Studio 2012\Projects\TTSTest2\TTSTest2\TTSTest2.iOS\bin\iPhone\Debug\TTSTest2iOS.pdb
+C:\Users\Lauren\Documents\Visual Studio 2012\Projects\TTSTest2\TTSTest2\TTSTest2.iOS\bin\iPhone\Debug\SQLite-net.dll
+C:\Users\Lauren\Documents\Visual Studio 2012\Projects\TTSTest2\TTSTest2\TTSTest2.iOS\bin\iPhone\Debug\SQLitePCL.raw.dll
+C:\Users\Lauren\Documents\Visual Studio 2012\Projects\TTSTest2\TTSTest2\TTSTest2.iOS\bin\iPhone\Debug\TTSTest2.dll
+C:\Users\Lauren\Documents\Visual Studio 2012\Projects\TTSTest2\TTSTest2\TTSTest2.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+C:\Users\Lauren\Documents\Visual Studio 2012\Projects\TTSTest2\TTSTest2\TTSTest2.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\Lauren\Documents\Visual Studio 2012\Projects\TTSTest2\TTSTest2\TTSTest2.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Lauren\Documents\Visual Studio 2012\Projects\TTSTest2\TTSTest2\TTSTest2.iOS\bin\iPhone\Debug\TTSTest2.pdb
+C:\Users\Lauren\Documents\Visual Studio 2012\Projects\TTSTest2\TTSTest2\TTSTest2.iOS\bin\iPhone\Debug\SQLite-net.dll.mdb
+C:\Users\Lauren\Documents\Visual Studio 2012\Projects\TTSTest2\TTSTest2\TTSTest2.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.xml
+C:\Users\Lauren\Documents\Visual Studio 2012\Projects\TTSTest2\TTSTest2\TTSTest2.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Lauren\Documents\Visual Studio 2012\Projects\TTSTest2\TTSTest2\TTSTest2.iOS\obj\iPhone\Debug\
+C:\Users\Lauren\Documents\Visual Studio 2012\Projects\TTSTest2\TTSTest2\TTSTest2.iOS\obj\iPhone\Debug\TTSTest2.iOS.csprojResolveAssemblyReference.cache
+C:\Users\Lauren\Documents\Visual Studio 2012\Projects\TTSTest2\TTSTest2\TTSTest2.iOS\obj\iPhone\Debug\TTSTest2iOS.exe
+C:\Users\Lauren\Documents\Visual Studio 2012\Projects\TTSTest2\TTSTest2\TTSTest2.iOS\obj\iPhone\Debug\TTSTest2iOS.pdb
